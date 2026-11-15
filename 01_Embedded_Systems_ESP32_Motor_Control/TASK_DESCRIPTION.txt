@@ -1,0 +1,17 @@
+﻿TASK 1: Embedded Systems Engineer
+
+Objective:
+Develop the embedded control system for the F30070M telescope.
+
+Responsibilities:
+- Develop ESP32 firmware using Arduino/C++.
+- Implement NEMA 17 stepper motor control and driver interfaces.
+- Integrate GPS and IMU sensors.
+- Implement motor calibration, positioning, and power management.
+- Test motor movement, accuracy, and communication.
+
+Deliverables:
+- ESP32 firmware and Arduino/C++ source code.
+- Wiring diagrams.
+- Motor control test results.
+- Sensor integration documentation.

@@ -1,0 +1,13 @@
+﻿SHARED RESOURCES
+
+Purpose:
+Store resources used by the whole F30070M smart telescope team.
+
+Recommended practices:
+- Meeting Notes: Record decisions, action items, owners, and deadlines.
+- References: Store research links, datasheets, and technical documentation.
+- Media: Store approved images, diagrams, and project photos.
+- Final Presentation: Keep the approved presentation and related materials.
+
+Each team member should place working files in their assigned folder and
+share cross-team resources here when they are useful to everyone.

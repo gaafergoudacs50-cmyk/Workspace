@@ -1,0 +1,18 @@
+﻿TASK 4: Mechanical Design Engineer
+
+Objective:
+Design the motorized mount and 3D-printed parts for the F30070M telescope.
+
+Responsibilities:
+- Design an Alt-Azimuth motorized mount.
+- Develop the gear and motor coupling system.
+- Create CAD models using Fusion 360.
+- Evaluate stability, alignment, clearances, and mechanical loads.
+- Prepare the assembly and 3D-printing instructions.
+
+Deliverables:
+- CAD source files.
+- STL files for printing.
+- Gear system design.
+- Assembly guide.
+- Mechanical stability assessment.

@@ -1,0 +1,17 @@
+﻿TASK 3: AI and Computer Vision Engineer
+
+Objective:
+Develop AI-assisted tracking and object detection for the telescope.
+
+Responsibilities:
+- Build an OpenCV image-processing pipeline.
+- Investigate plate solving and automatic alignment.
+- Explore Moon and lunar crater detection.
+- Investigate auto-focus and image-based tracking.
+- Evaluate detection and tracking accuracy.
+
+Deliverables:
+- Python scripts and models.
+- Computer vision pipeline.
+- Accuracy report.
+- Sample images and test results.

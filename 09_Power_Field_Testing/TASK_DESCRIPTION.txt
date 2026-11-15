@@ -1,0 +1,17 @@
+﻿TASK 9: Power and Field Testing Engineer
+
+Objective:
+Plan the telescope power system and validate performance under field conditions.
+
+Responsibilities:
+- Evaluate battery and optional solar power solutions.
+- Measure component power consumption.
+- Prepare a power budget and runtime estimate.
+- Plan field testing and calibration under different lighting conditions.
+- Document environmental and operational limitations.
+
+Deliverables:
+- Power budget spreadsheet.
+- Power consumption and runtime test results.
+- Field test report with photos.
+- Calibration documentation.

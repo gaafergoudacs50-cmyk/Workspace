@@ -1,0 +1,17 @@
+﻿TASK 8: UX/UI Designer for Astronomy
+
+Objective:
+Design an intuitive telescope-control experience, especially for beginners.
+
+Responsibilities:
+- Design a dark-mode interface suitable for night observations.
+- Develop sky map and celestial target visualizations.
+- Create an onboarding tutorial for first-time users.
+- Consider accessibility and preservation of dark adaptation.
+- Test navigation, readability, and control usability.
+
+Deliverables:
+- Figma design files.
+- Interactive prototype link.
+- UI component designs.
+- Onboarding tutorial.

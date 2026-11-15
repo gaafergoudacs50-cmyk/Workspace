@@ -1,0 +1,17 @@
+﻿TASK 5: Astronomical Data Engineer
+
+Objective:
+Handle celestial data, coordinate transformations, and target calculations.
+
+Responsibilities:
+- Investigate CelesTrak and Stellarium data sources and APIs.
+- Implement Right Ascension/Declination to Altitude/Azimuth conversion.
+- Process TLE data where relevant.
+- Account for observer location, date, time, and coordinate conventions.
+- Develop a searchable target database and target scheduling logic.
+
+Deliverables:
+- Astronomical calculation scripts.
+- API integration documentation.
+- Target database.
+- Validation results for coordinate calculations.

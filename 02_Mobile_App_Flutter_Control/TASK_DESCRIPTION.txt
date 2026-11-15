@@ -1,0 +1,17 @@
+﻿TASK 2: Mobile App Developer
+
+Objective:
+Develop a mobile application for smart telescope control.
+
+Responsibilities:
+- Develop the application using Flutter.
+- Implement live joystick control and GoTo functionality.
+- Design a sky map and target-selection interface.
+- Implement Bluetooth/Wi-Fi/MQTT connectivity as appropriate.
+- Test commands, telemetry, and connection reliability.
+
+Deliverables:
+- APK file.
+- Complete source code.
+- UI/UX designs.
+- Communication and setup documentation.

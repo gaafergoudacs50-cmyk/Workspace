@@ -1,0 +1,18 @@
+﻿TASK 15: Astronomy Data Collection Engineer
+
+Objective:
+Collect, clean, and document datasets useful for the F30070M telescope project.
+
+Responsibilities:
+- Find relevant star, planet, and astronomy datasets on Kaggle and other sources.
+- Collect CelesTrak TLE data when relevant.
+- Investigate reliable sources for Moon and planet coordinates.
+- Develop scrapers or API clients where permitted.
+- Validate, clean, and document the collected data.
+- Record data licenses, attribution, timestamps, and source URLs.
+
+Deliverables:
+- Cleaned CSV/JSON datasets.
+- Scraper scripts or API clients.
+- Source links and data documentation.
+- Data validation report.

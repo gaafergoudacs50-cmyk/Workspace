@@ -1,0 +1,19 @@
+﻿TASK 14: Backend and Cloud Engineer
+
+Objective:
+Develop the backend and cloud services for the F30070M smart telescope.
+
+Responsibilities:
+- Design RESTful APIs and evaluate MQTT/WebSocket communication.
+- Connect the backend with ESP32 devices and the mobile application.
+- Design a database for users, telescope telemetry, and celestial data.
+- Integrate relevant CelesTrak data where required.
+- Implement authentication, authorization, and secure configuration.
+- Document deployment and system communication.
+
+Deliverables:
+- Backend source code.
+- API documentation.
+- Database schema.
+- Communication architecture.
+- Deployment instructions and test results.

@@ -1,0 +1,17 @@
+﻿TASK 6: IoT and Cloud Security Engineer
+
+Objective:
+Secure communications and access across the smart telescope system.
+
+Responsibilities:
+- Configure MQTT over TLS where supported.
+- Implement device authentication and secure credential handling.
+- Investigate JWT authentication and API rate limiting.
+- Review OTA update security.
+- Identify security risks and recommend mitigations.
+
+Deliverables:
+- Security audit report.
+- Secure configuration files.
+- Authentication and communication documentation.
+- Security test results.

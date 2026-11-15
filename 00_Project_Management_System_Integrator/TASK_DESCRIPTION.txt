@@ -1,0 +1,17 @@
+﻿TASK 11: System Integrator and Project Manager
+
+Objective:
+Lead the final integration of the F30070M smart telescope system.
+
+Responsibilities:
+- Integrate hardware, firmware, backend, and mobile application.
+- Coordinate end-to-end system testing and bug fixing.
+- Maintain the project timeline and integration checklist.
+- Prepare the final working prototype and demonstration.
+
+Deliverables:
+- Integrated working prototype.
+- Final demo video.
+- Complete system architecture diagram.
+- Final presentation.
+- Timeline, bug list, and integration test results.

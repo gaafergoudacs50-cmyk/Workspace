@@ -1,0 +1,23 @@
+﻿TASK 12: ROS 2 Control Engineer
+
+Objective:
+Develop ROS-based control for the F30070M telescope mount.
+
+Responsibilities:
+- Create ROS 2 nodes for mount control and telemetry.
+- Interface with motor drivers through an Arduino/ESP32 bridge as appropriate.
+- Create a URDF model of the mount.
+- Implement and validate relevant topics, including /joint_states and suitable motion commands.
+- Develop an automatic tracking node and RViz visualization.
+
+Suggested Stack:
+- ROS 2 Humble, subject to operating-system compatibility.
+- Arduino/ESP32 bridge.
+- Compatible stepper motor drivers.
+- URDF and RViz.
+
+Deliverables:
+- ROS 2 package.
+- Launch files.
+- URDF model.
+- RViz demonstration video.

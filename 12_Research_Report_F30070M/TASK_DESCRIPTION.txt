@@ -1,0 +1,17 @@
+﻿TASK 13: Telescope Research Engineer
+
+Objective:
+Conduct research on the F30070M telescope and the requirements for motorization.
+
+Responsibilities:
+- Explain the telescope's working principle.
+- Verify its optical specifications using reliable sources.
+- Investigate mount motorization methods and similar projects.
+- Identify required accessories, lenses, power components, and mechanical parts.
+- Compare options and document technical constraints, costs, and references.
+
+Deliverables:
+- Research report PDF.
+- Source links and references.
+- Specifications summary.
+- Recommendations for the project team.

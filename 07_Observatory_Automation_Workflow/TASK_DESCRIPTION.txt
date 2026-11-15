@@ -1,0 +1,17 @@
+﻿TASK 7: Observatory Automation Engineer
+
+Objective:
+Develop automated observation and observatory workflows.
+
+Responsibilities:
+- Implement automatic sky-scanning routines.
+- Develop Moon time-lapse capture workflows.
+- Implement safe parking at sunrise or when observations end.
+- Investigate weather monitoring and weather-based automatic closure.
+- Define operating limits and safe shutdown procedures.
+
+Deliverables:
+- Automation scripts.
+- Workflow diagram.
+- Test results.
+- Safety and operating procedure documentation.
